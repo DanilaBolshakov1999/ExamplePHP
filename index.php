@@ -8,7 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-
 <?php
 # CODE
 echo '<b>Hello</b> <b>World</b>'; //Bold
@@ -67,10 +66,8 @@ if ($cards_info > 0) {
 //<a href="$url">$text</a>
 //HTML;
 ?>
-
 </body>
 </html>
-
 
 <!doctype html>
 <html lang="en">
@@ -92,6 +89,5 @@ if ($cards_info > 0) {
 BLUE;
 echo "</pre>";
 ?>
-
 </body>
 </html>
