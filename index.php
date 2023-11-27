@@ -88,9 +88,7 @@ if ($cards_info > 0) {
 
  echo "<pre>";
  echo print <<< BLUE
-fkfkfkfkkfkfkfk
-ffkfkfkfkfkf
-fkfkkfkfkfkfk
+
 BLUE;
 echo "</pre>";
 ?>
