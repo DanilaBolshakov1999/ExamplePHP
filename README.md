@@ -10,3 +10,4 @@
 - [x] Loop for, while and do while. Loop Operators
 - [x] Functions
 - [x] Connecting files
+- [x] Form processing. Transferring data using POST and GET methods
