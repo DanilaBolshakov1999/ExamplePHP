@@ -1,4 +1,4 @@
-# Study Plan
+# PHP Training Plan
 - [x] Maintenance in PHP
 - [x] Local server
 - [x] Variables and data types and functions
@@ -10,3 +10,4 @@
 - [x] Loop for, while and do while. Loop Operators
 - [x] Functions
 - [x] Connecting files
+- [x] Form processing. Transferring data using POST and GET methods
