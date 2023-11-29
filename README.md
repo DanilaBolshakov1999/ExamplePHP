@@ -1,4 +1,4 @@
-# Study Plan
+# PHP Training Plan
 - [x] Maintenance in PHP
 - [x] Local server
 - [x] Variables and data types and functions
