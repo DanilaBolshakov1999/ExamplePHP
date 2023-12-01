@@ -9,8 +9,9 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
 </head>
 <body>
+<div class="container mt-5">
 <header>
     <a href="connecting.php">Главная</a> |
     <a href="about.php">Про нас</a> |
-    <a href="сontacts.php">Контакты</a>
+    <a href="сontact.php">Контакты</a>
 </header>
